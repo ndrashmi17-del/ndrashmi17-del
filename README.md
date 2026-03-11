@@ -17,4 +17,4 @@
 - Food Waste Management System
 
 ## Contact
-📧 Email: your email here
+📧 Email: ndrashmi17@gmail.com
