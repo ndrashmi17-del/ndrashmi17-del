@@ -7,9 +7,8 @@
 ## Skills
 - Java
 - Python
-- C
-- HTML
-- Git
+- C, C++
+- HTML, CSS
 
 ## Projects
 - Java Basic Programs
