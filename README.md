@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Rashmi
 
-<!--
-**ndrashmi17-del/ndrashmi17-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+💻 Interested in Software Development  
+🌱 Currently learning Java and Python  
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Python
+- C
+- HTML
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Java Basic Programs
+- Women Safety App
+- Food Waste Management System
+
+## Contact
+📧 Email: your email here
