@@ -12,8 +12,7 @@
 
 ## Projects
 - Java Basic Programs
-- Women Safety App
-- Food Waste Management System
+- Ecoloop-Waste Reduced, Food Reused
 
 ## Contact
 📧 Email: ndrashmi17@gmail.com
